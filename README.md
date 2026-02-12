@@ -9,7 +9,7 @@ I’m a Data Science & Analytics enthusiast passionate about turning data into i
 - I build predictive model with the help of Machine learning.
 
 ### 📫 Contact Me
-LinkedIn: https://linkedin.com/in/your-profile
+LinkedIn: https://www.linkedin.com/in/surajnirgun/?skipRedirect=true
 
-Email: your-email@example.com
+Email: surajnirgun77@gmail.com
 
