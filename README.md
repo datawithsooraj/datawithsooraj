@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**datawithsooraj/datawithsooraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📌 About Me
 
-Here are some ideas to get you started:
+I’m a Data Science & Analytics enthusiast passionate about turning data into insights and building machine learning models to solve real-world problems. I enjoy working on data analysis, visualisation, predictive modelling, and customer analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🌱 I’m currently learning Data Science and Analytics at Imarticus learning
+- I build predictive model with the help of Machine learning.
+
+### 📫 Contact Me
+LinkedIn: https://linkedin.com/in/your-profile
+Email: your-email@example.com
+
